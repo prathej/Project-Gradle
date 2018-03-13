@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gradle for Android and Java Final Project
 
 In this project, you will create an app with multiple flavors that uses
@@ -26,3 +27,8 @@ Gradle to manage apps of increasing complexity. You'll learn to:
 * Use the Gradle App Engine plugin to deploy a backend
 * Configure an integration test suite that runs against the local App Engine development server
 
+||||||| merged common ancestors
+=======
+# Project-Gradle
+This contains the Build it Bigger Project Code done under the Udacity Android Nano Degree Program.
+>>>>>>> 79b0f3606e2de81123d94ba28f524713e7f864e1
